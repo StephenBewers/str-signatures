@@ -2,7 +2,6 @@
 
 ![Adrian Woods](adrian-woods.png)
 ![Ali İhsan Umutlu](ali-ihsan-umutlu.png)
-![André Ahlberg](andre-ahlberg.png)
 ![Andrew Merkel](andrew-merkel.png)
 ![Auke Haarsma](auke-haarsma.png)
 ![Barry Gregorick](barry-gregorick.png)
@@ -10,7 +9,6 @@
 ![Bren Considine](brendan-considine.png)
 ![Chas Shaw](charles-shaw.png)
 ![Chris Adnams](chris-adnams.png)
-![Eddy Verschuren](eddy-verschuren.png)
 ![Ivo Pētersons](ivo-petersons.png)
 ![Jez Banks](jez-banks.png)
 ![Jos Haarsma](jos-haarsma.png)
@@ -32,6 +30,7 @@
 # Retired and former members
 
 ![Anders Sandberg](anders-sandberg.png)
+![André Ahlberg](andre-ahlberg.png)
 ![Andy Dowson](andy-dowson.png)
 ![Andy Kramer](andy-kramer.png)
 ![Antti Honkanen](antti-honkanen.png)
@@ -40,6 +39,7 @@
 ![Casper Elshof](casper-elshof.png)
 ![Chris Lee](chris-lee.png)
 ![Eddie Smith](eddie-smith.png)
+![Eddy Verschuren](eddy-verschuren.png)
 ![Emanuel Henriques](emanuel-henriques.png)
 ![Jackie Connolly](jackie-connolly.png)
 ![John Doughty](john-doughty.png)
