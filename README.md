@@ -19,11 +19,11 @@
 ![Matt Knowles](matthew-knowles.png)
 ![Nick Hewer](nick-hewer.png)
 ![Piotr Tarnawski](piotr-tarnawski.png)
-![Romain Lebreton](romain-lebreton.png)
 ![Sagar Subhedar](sagar-subhedar.png)
 ![Thomas Pitts](thomas-pitts.png)
 ![Tomas Andriuskas](tomas-andriuskas.png)
 ![Torbjorn Carlson](torbjorn-carlson.png)
+![Vishnu Mohan](vishnu-mohan.png)
 ![Warwick Taylor](warwick-taylor.png)
 
 
@@ -45,6 +45,7 @@
 ![Keri Lovell](keri-lovell.png)
 ![Max Van Rooden](max-van-rooden.png)
 ![Otto Tos](otto-tos.png)
+![Romain Lebreton](romain-lebreton.png)
 ![Sam Mccallion](samuel-mccallion.png)
 ![Stephen Bewers](stephen-bewers.png)
 ![Thijs Rieken](thijs-rieken.png)
