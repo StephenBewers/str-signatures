@@ -7,7 +7,7 @@
 ![Barry Gregorick](barry-gregorick.png)
 ![Bren Considine](brendan-considine.png)
 ![Chas Shaw](charles-shaw.png)
-![Fábio Soares](fábio-soares.png)
+![Fábio Soares](fabio-soares.png)
 ![Ivo Pētersons](ivo-petersons.png)
 ![Jared Mcdonald](jared-mcdonald.png)
 ![Jez Banks](jez-banks.png)
